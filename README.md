@@ -1,2 +1,2 @@
-## Projeto Modelo Estrutura MVC no PHP
+## Modelo Estrutura MVC no PHP
 
