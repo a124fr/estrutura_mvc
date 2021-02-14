@@ -4,7 +4,7 @@ $config = array();
 
 if(ENVIRONMENT == 'developnment')
 {
-	define("BASE_URL", "http://localhost/estrutura_mvc2/");
+	define("BASE_URL", "http://localhost/estrutura_mvc/");
 	$config['dbname'] = 'projeto_classificados';
 	$config['host'] = 'localhost';
 	$config['dbuser'] = 'root';
